@@ -36,18 +36,18 @@ body{
     margin-top:5%;
 }
 
+.presentation-box{
+    height:1000%;
+ 
+}
 /* iframe{
     height:50%;
     width:60%;
 } */
 
-.figma{
-    margin-top:5%;
-    height:50%;
-    width:50%;
-}
+
   iframe{
-      height:400px;
+      height:800px;
   }
   .form-group{
       width:50%;
@@ -57,15 +57,16 @@ body{
   } 
   .custom-centered{
       align-content: center;
-      margin:auto;
+  
       margin-left:30%
 
   }
   .email{
       margin-left:10%;
   }
-  /* input{
+  input{
      
       z-index: 200;
       width:50%;
-  }  */
+      margin-left:15%;
+  } 
