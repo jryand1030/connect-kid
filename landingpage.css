@@ -36,29 +36,36 @@ body{
     margin-top:5%;
 }
 
-iframe{
+/* iframe{
     height:50%;
     width:60%;
-}
+} */
 
 .figma{
     margin-top:5%;
     height:50%;
     width:50%;
 }
-  .presentation-box{
-      height:850px;
+  iframe{
+      height:400px;
   }
   .form-group{
       width:50%;
-      align-items: center;
-      margin-left:25%;
       margin-top:-0%;
       z-index: 700;
       
   } 
-  input{
-      /* margin-left:25%; */
+  .custom-centered{
+      align-content: center;
+      margin:auto;
+      margin-left:30%
+
+  }
+  .email{
+      margin-left:10%;
+  }
+  /* input{
+     
       z-index: 200;
       width:50%;
-  } 
+  }  */
