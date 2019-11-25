@@ -7,6 +7,16 @@ body{
     background-size:cover;
     background-repeat:no-repeat;
 }
+.words{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin:5%;
+    
+}
+/* #exampleInputEmail1{
+    width:50%;
+    align-content: center;
+    z-index: 700;
+} */
 .btn{
     margin-top:40%;
     padding:10px;
@@ -36,10 +46,19 @@ iframe{
     height:50%;
     width:50%;
 }
-#particles-js{
-    width: 100%;
-    height:100%;
-   position: absolute;
-   background-size:cover;
-  
+  .presentation-box{
+      height:800px;
   }
+  .form-group{
+      width:50%;
+      align-items: center;
+      margin-left:25%;
+      margin-top:-0%;
+      z-index: 700;
+      
+  } 
+  input{
+      /* margin-left:25%; */
+      z-index: 200;
+      width:50%;
+  } 
